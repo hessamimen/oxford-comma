@@ -1,10 +1,3 @@
-# def oxford_comma(array)
-#     array.join
-#     array.join(' and ')
-    
-# end
-
-
 def oxford_comma(array)
     if array.size == 1
         array.join
